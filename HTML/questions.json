@@ -1,0 +1,25 @@
+[{
+        "Question": "What is my name?",
+        "choice1": "Toba",
+        "choice2": "Juwon",
+        "choice3": "Tunde",
+        "choice4": "Joba",
+        "answer": 1
+    },
+    {
+        "Question": "What is my age?",
+        "choice1": 22,
+        "choice2": 23,
+        "choice3": 35,
+        "choice4": 25,
+        "answer": 4
+    },
+    {
+        "Question": "Where am i from?",
+        "choice1": "Togo",
+        "choice2": "Ghana",
+        "choice3": "Nigeria",
+        "choice4": "Benin",
+        "answer": 3
+    }
+]
